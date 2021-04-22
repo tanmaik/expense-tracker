@@ -25,7 +25,11 @@ function App() {
 
   return (
     <div>
-      <h2>Let's get started!</h2>
+      <link
+        href="https://fonts.googleapis.com/css?family=Alata"
+        rel="stylesheet"
+      ></link>
+      <h2 id="main-heading">Expense Tracker</h2>
       <ExpenseItem
         title={expenses[0].title}
         amount={expenses[0].amount}
