@@ -3,7 +3,7 @@
 tanmai kalisipudi's
 *expense tracker* 💰
 
-**https://master.dc7nr1htbr85e.amplifyapp.com/**
+**https://expensetracker.tanmai.io/**
 
 to start:
 1. clone
